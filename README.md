@@ -1,4 +1,4 @@
-Entensão para navegadores, onde o simbolo do verificado é modificado para o que deseja, neste exemplo é modificado para o emoji de uma caveira.
+Entensão para navegadores, onde o simbolo do verificado é modificado para o que desejar, neste exemplo é modificado para o emoji de uma caveira.
 
 Para modificar apenas os verificados azuis (verified blue), é necessário analisar o webRequest do twitter, pois a exibição do verificado é igual para os dois tipos.
 
