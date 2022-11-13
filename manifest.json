@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "modifying Verified Twitter",
+    "description": "modifying Verified Twitter",
+    "version": "1.0",
+  
+    "content_scripts": [
+      {
+        "matches": ["https://*/*"],
+        "js": ["main.js"]
+      }
+    ],
+
+
+    "permissions":["activeTab", "scripting", "webRequest"]
+
+  }
